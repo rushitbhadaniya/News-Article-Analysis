@@ -10,3 +10,13 @@ Download the News Clustering.ipynb file. Do changes in file paths according to y
 ## Data
 Data is collected from Google News API. Data is directly downloaded in json format. This is not the ideal way to collect data. We can use Apache Kafka to handle streaming data,but here we are only focused on doing analysis on downloaded data. 
 
+## Methodology
+<img src="https://github.com/rushitbhadaniya/News-Article-Analysis/blob/master/Methodology/WorkFlow.jpg">
+
+## Results 
+
+### K-Means
+<img src="https://github.com/rushitbhadaniya/News-Article-Analysis/blob/master/Output/KMeans.JPG">
+
+### DBScan
+<img src="https://github.com/rushitbhadaniya/News-Article-Analysis/blob/master/Output/DBScan.JPG">
